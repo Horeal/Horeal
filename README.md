@@ -1,3 +1,7 @@
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/0*ikFzeciGomktK0d-)
+
+
+--------------------------------------------------------------------------------------
 <h1 align="center">Hi 👋, I'm Gökdeniz</h1>
 <h3 align="center">A software developer without a life</h3>
 
