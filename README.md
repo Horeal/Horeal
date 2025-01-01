@@ -15,3 +15,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=horeal&show_icons=true&locale=en&layout=compact" alt="horeal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=horeal&show_icons=true&locale=en" alt="horeal" /></p>
+
+
+![Snake animation](https://Horeal.github.io/Horeal/github-contribution-grid-snake.gif)
