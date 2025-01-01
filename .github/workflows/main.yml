@@ -7,40 +7,37 @@ on:
   workflow_dispatch: # Manuel tetikleme desteği
 
 jobs:
-  # This workflow contains a single job called "build"
   build:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks repo under $GITHUB_WORKSHOP, so your job can access it
+      # Checkout repository
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
-      # Generates the snake
+      # Generate Snake GIF and SVG
       - name: Generate Snake GIF and SVG
         uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: Horeal
-          # These next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Show the status of the build. Makes it easier for debugging (if there's any issues).
+      # Show git status for debugging
       - name: Check git status
         run: git status
 
-      # Push the changes
-      - name: Push changes
-        uses: github-actions-x/commit@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          commit_message: "Generated snake contribution files"
+      # Commit and push changes
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/
+          git commit -m "Generated snake contribution files" || echo "No changes to commit"
+          git push origin output
 
-      # Deploy the generated files to GitHub Pages
+      # Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
