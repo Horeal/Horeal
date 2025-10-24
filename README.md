@@ -9,8 +9,7 @@
 
 <p align="center">
   Kod yazmam, kod üretirim.<br/>
-  Frontend, backend, sistem — ne gerekirse yaparım.<br/>
-  <b>“Yaparız, olur.”</b>
+  Frontend, backend, sistem .<br/>
 </p>
 
 ---
