@@ -9,7 +9,7 @@
 
 <p align="center">
   Kod yazmam, kod üretirim.<br/>
-  Frontend, backend, sistem .<br/>
+  Frontend, backend, sistem.<br/>
 </p>
 
 ---
