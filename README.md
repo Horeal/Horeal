@@ -42,7 +42,7 @@
     <td align="center">
       Git, GitHub, Figma, Sketch<br>
       Docker, Kubernetes, Nginx<br>
-      Postman, Selenium, Firebase<br>
+      Postman, Selenium, Firebase,Supabase<br>
       Unity, Unreal, Blender<br>
       Illustrator, Photoshop
     </td>
