@@ -15,7 +15,6 @@
 
 ---
 
-### 🚀 Kullandığım Teknolojiler
 <h2 align="center">🧠 Kullandığım Teknolojiler</h2>
 
 <table align="center">
