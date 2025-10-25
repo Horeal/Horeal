@@ -84,7 +84,13 @@
 
 ### 🏆 GitHub Başarıları
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=horeal&theme=darkhub&margin-w=10&margin-h=10" alt="horeal trophies"/>
+  <img src="https://gh-readme.vercel.app/api?username=horeal&theme=radical&margin-w=10&margin-h=10" alt="horeal trophies"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=horeal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&border_radius=10" alt="horeal trophies"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=horeal&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&border_radius=10" alt="horeal trophies"/>
 </p>
 
 ---
@@ -100,3 +106,8 @@
 ---
 
 <p align="center"><i>“Kodu yaz, test et, boz, yeniden yaz. Gelişim böyle olur.” — Horeal</i></p>
+
+---
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=horeal&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=C9D1D9&area=true&border_radius=10" alt="horeal trophies"/>
+</p>
