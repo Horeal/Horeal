@@ -84,7 +84,7 @@
 
 ### 🏆 GitHub Başarıları
 <p align="center">
-  <img src="https://gh-readme.vercel.app/api?username=horeal&theme=radical&margin-w=10&margin-h=10" alt="horeal trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=horeal&theme=darkhub&margin-w=10&margin-h=10" alt=""/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=horeal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=C9D1D9&border_radius=10" alt="horeal trophies"/>
